@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\src"
+    "\\src",
+    "\\src\\redux"
   ],
-  "SelectedNode": "\\src",
+  "SelectedNode": "\\src\\redux\\store.js",
   "PreviewInSolutionExplorer": false
 }
